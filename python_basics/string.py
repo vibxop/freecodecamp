@@ -27,6 +27,8 @@ print(my_str_1[1])
 print(my_str_1[0])
 print(my_str_1[-1])
 
+
+#Strings are immutable data types in Python. This means that you can reassign a different string to a variable:
 greeting='hi'
 greeting='hello'
 print(greeting)
